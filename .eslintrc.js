@@ -9,7 +9,6 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:prettier/recommended',
     'prettier',
-    'standard',
     'prettier/flowtype',
     'prettier/react',
   ],

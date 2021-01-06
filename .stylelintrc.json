@@ -10,7 +10,11 @@
       ],
       "rules": {
         "prettier/prettier": [
-          true
+          true,
+          {
+            "useTabs": false,
+            "tabWidth": 2
+          }
         ]
       }
 }
