@@ -1,6 +1,20 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) + Eslint + stylelint + Prettier
+
+## Before clone this project:（下載專案前請看！）
+
+windows 的電腦，請在終端機先進行以下操作
+
+`git config --global core.autocrlf false`
+
+### 原因：
+
+windows 下和 linux 下的文本文件的換行符不一致。
+
+windows: cr + lf
+
+linux: lf
 
 ## Available Scripts
 
