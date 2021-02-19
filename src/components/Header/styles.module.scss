@@ -1,6 +1,8 @@
+@import '../../styles/color.scss';
+
 .container {
   height: 10vh;
-  background-color: aquamarine;
+  background-color: $background;
   display: flex;
   padding-left: 3vw;
   align-items: center;
